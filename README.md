@@ -5,4 +5,7 @@ The aim of this project is to create a user-friendly search platform for speaker
 Input: An image representing the query
 Output: Images that are visually similar to the query
 
+To run the barebones GUI, `pip install streamlit`, then `streamlit run image_searcher_gui.py`. However, since the models directly draw images from the dataset, and they are not included in this repository, this GUi cannot really be used.
 
+Screenshots of GUI:
+![gifu](https://s4.gifyu.com/images/streamlit-image_searcher_gui-2022-08-12-23-08-77.gif)
